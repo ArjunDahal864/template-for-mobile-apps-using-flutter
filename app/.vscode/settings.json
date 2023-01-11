@@ -1,0 +1,14 @@
+{
+    "files.exclude": {
+      "**/*.freezed.dart": true,
+      "**/*.g.dart": true,
+      "**/*.gr.dart" : true,
+    },
+    "dart.lineLength": 120,
+    "[dart]": {
+        "editor.rulers": [
+            120
+        ],
+    },
+    "coverage-gutters.showGutterCoverage": true,
+  }

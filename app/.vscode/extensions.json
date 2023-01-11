@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+      "dart-code.dart-code",
+      "dart-code.flutter",
+      "felixangelov.bloc",
+      "ryanluker.vscode-coverage-gutters",
+      "ms-vscode.makefile-tools",
+    ]
+  }
+  

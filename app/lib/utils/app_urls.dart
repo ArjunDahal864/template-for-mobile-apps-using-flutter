@@ -1,0 +1,1 @@
+const kURLBase = String.fromEnvironment("BASE_URL");
